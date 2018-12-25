@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mustapha Issa Toyin",
-	"description": "A project to learn npm",
+	"description": "A project to learn npm package",
+	"keywords": [ "freecodecamp", "npm", "package" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
