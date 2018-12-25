@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Mustpha Issa Toyin",
+	"author": "emaitee",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
